@@ -1,0 +1,2 @@
+# datastruct
+go datastruct
